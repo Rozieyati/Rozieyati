@@ -38,11 +38,4 @@
 
 ---
 
-## 🌐 Let's Connect!
-
-* 💼 **LinkedIn:** [Insert your LinkedIn URL here]
-* 📧 **Email:** [Insert your email here]
-
----
-
 > *"Data-driven development is the key to a resilient and efficient national infrastructure."* 🛡️

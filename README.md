@@ -7,7 +7,7 @@
 ## 🌟 About Me
 
 ✨ Passionate about bridging the gap between **Postal Network Operational Excellence** and **Data-Driven Decision Making**.  
-🚀 Leveraging Big Data Ecosystems, Statistical Modeling, and R/Shiny to optimise network efficiency and strategic development at **MCMC**.  
+🚀 Leveraging Big Data Ecosystems, Statistical Modeling, and R/Shiny to optimize network efficiency and strategic development at **MCMC**.  
 🔍 Driven by the belief that high-integrity data is the engine behind every successful infrastructure policy.
 
 ---
